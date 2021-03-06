@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **prakhar.gupta.1106@gmail.com**
 
+- ⚡ CodeChef Rating: ⭐⭐⭐ (3 stars)
+
 - 📄 Know about my experiences [https://drive.google.com/file/d/1jsZbKvHY8TwYTuChtjU_w5gUyCa2q-dS/view?usp=sharing](https://drive.google.com/file/d/1jsZbKvHY8TwYTuChtjU_w5gUyCa2q-dS/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>

@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a **MERN Project**
 
-  - 🌱 I’m currently learning **MERN, DSA**
+- 🌱 I’m currently learning **MERN, DSA**
 
 - 📫 How to reach me **prakhar.gupta.1106@gmail.com**
 

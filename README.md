@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prakhar Gupta</h1>
 <h3 align="center">A passionate Java Programmer and Web Developer from India</h3>
 
+- 📝 MCA Student at **Motilal Nehru National Institute of Technology, Allahabad, Prayagraj**
+
 - 🔭 I’m currently working on a **MERN Project and ML**
 
 - 🌱 I’m currently learning **Node Js, Machine Learning, DSA**
@@ -11,7 +13,11 @@
 
 - 🌱 Programming Languages **Java, CPP** 
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1b4ohSg9yrgIGdENkovQn56ZWIo8WOvPP/view?usp=sharing)
+- 🌱 **3rd Position** in Webster(Avishkar), a MNNIT Allahabad Hackathon
+
+- 🌱 **Top 50** in HACK 36 4.0, Annual Hackathon of MNNIT Allahabad
+
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1b4ohSg9yrgIGdENkovQn56ZWIo8WOvPP/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

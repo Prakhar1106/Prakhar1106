@@ -17,6 +17,8 @@
 
 - 🌱 **Top 50** in HACK 36 4.0, Annual Hackathon of MNNIT Allahabad
 
+- 🌱 **Top 20** in HACK 36 5.0, Annual Hackathon of MNNIT Allahabad
+
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1b4ohSg9yrgIGdENkovQn56ZWIo8WOvPP/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>

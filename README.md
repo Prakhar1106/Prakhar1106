@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prakhar Gupta</h1>
-<h3 align="center">A passionate Java Programmer and Web Developer from India</h3>
+<h3 align="center">A passionate Full Stack Engineer from India</h3>
 
 - 🌱 **Software Engineer in Zenon AI - 2+ Year Experience** in Full Stack Engineering (with expertise in Angular and Spring Boot based Applications)
   

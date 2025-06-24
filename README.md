@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Prakhar Gupta</h1>
 <h3 align="center">A passionate Java Programmer and Web Developer from India</h3>
 
+- 🌱 **Software Engineer in Zenon AI - 2+ Year Experience** in Full Stack Engineering (with expertise in Angular and Spring Boot based Applications)
+  
 - 📝 MCA Student at **Motilal Nehru National Institute of Technology, Allahabad, Prayagraj**
 
-- 🔭 I’m currently working on a **MERN Project and ML**
-
-- 🌱 I’m currently learning **Node Js, Machine Learning, DSA**
+- 🌱 I’m currently learning **DSA, System Design and Generative AI**
 
 - 📝 I wrote articles for **GeeksForGeeks, InterviewBit**
 
 - 📫 How to reach me **prakhar.gupta.1106@gmail.com**
 
-- 🌱 Programming Languages **Java, CPP** 
+- 🌱 Programming Languages **Java, C++, Python** 
 
 - 🌱 **3rd Position** in Webster(Avishkar), a MNNIT Allahabad Hackathon
 
